@@ -1,3 +1,3 @@
 personal portfolio site
 
-online at https://www.andersonzac.com
+online at https://andersonzac.com
