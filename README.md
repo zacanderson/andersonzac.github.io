@@ -1,3 +1,3 @@
-personal portfolio site (using gh-pages branch)
+personal portfolio site
 
 online at https://www.andersonzac.com
